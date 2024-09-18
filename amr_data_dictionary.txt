@@ -4,6 +4,7 @@ Last updated 2024/09/18
 Author: Amreet Battu
 
 - Adewole was here
+- Amy was here
 
 100,000 rows of 12 variables
 
@@ -20,3 +21,4 @@ These data represent the sort of data that might be obtained from the Second Ge>
  * coamox Binary - indicates specimen was resistant to Coamoxiclav
  * gentam Binary - indicates specimen was resistant to Gentamicin
  * ciprof Binary - indicates specimen was resistant to Ciprofloxacin
+
