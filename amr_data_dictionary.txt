@@ -1,6 +1,9 @@
 AMR data
 
 Last updated 2024/09/18
+Author: Amreet Battu
+
+- Adewole was here
 
 100,000 rows of 12 variables
 
