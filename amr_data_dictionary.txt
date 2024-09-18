@@ -1,6 +1,17 @@
 AMR data
+
 100,000 rows of 12 variables
 
-These data represent the sort of data that might be obtained from the Second Generation Surveillance System (SGSS)
+These data represent the sort of data that might be obtained from the Second Ge>
 
-* id Integer - A unique identifier for each person
+ * id Integer - A unique identifier for each person
+ * dob Character - a string giving the date of birth
+ * spec_date Character - a string giving the date a specimen was taken
+ * sex_male Binary - indicates whether the person from whom the specimen was ta>
+ * region Character - a string indicating the England region of laboratory test>
+ * had_surgery_past_yr Binary - indicates whether person from whom sample was t>
+ * ethnicity Character - indicates self-reported ethnicity group according to O>
+< (most deprived) * organism Character - indicates the species name for the org>
+ * coamox Binary - indicates specimen was resistant to Coamoxiclav
+ * gentam Binary - indicates specimen was resistant to Gentamicin
+ * ciprof Binary - indicates specimen was resistant to Ciprofloxacin
